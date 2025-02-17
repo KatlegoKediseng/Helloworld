@@ -15,7 +15,7 @@ line-height: 1.6;
 }
 header {
 
-background-color: #4CAF50;
+background-color:#FF0000;
 
 color: pink;
 
@@ -73,7 +73,7 @@ margin: 20px 0;
 }
 footer {
 
-background-color: #333;
+background-color: #FF0000;
 
 color: pink;
 
@@ -97,7 +97,7 @@ font-size: 1.1em;
 
 a {
 
-color: #4CAF50;
+color:#FF0000;
 
 text-decoration: none;
 
@@ -111,7 +111,7 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #4CAF50;
+border: 5px solid #FF0000;
 
 border-radius: 10px;
 
