@@ -2,9 +2,9 @@ body {
 
 font-family: Arial, sans-serif;
 
-color:#572649;
+color:#FFC0CB;
 
-background-color:#572649;
+background-color:#FFC0CB;
 
 margin: 0;
 
@@ -15,7 +15,7 @@ line-height: 1.6;
 }
 header {
 
-background-color:#FF0000;
+background-color:#FFC0CB;
 
 color: pink;
 
@@ -73,7 +73,7 @@ margin: 20px 0;
 }
 footer {
 
-background-color: #FF0000;
+background-color:#FFC0CB ;
 
 color: pink;
 
@@ -97,7 +97,7 @@ font-size: 1.1em;
 
 a {
 
-color:#FF0000;
+color:#FFC0CB;
 
 text-decoration: none;
 
@@ -111,14 +111,14 @@ text-decoration: underline;
 }
 img {
 
-border: 5px solid #FF0000;
+border: 5px solid #FFC0CB ;
 
 border-radius: 10px;
 
 }
 main a[href^="mailto:"] {
 
-color: #ff5722;
+color:#FFC0CB ;
 
 font-weight: bold;
 
